@@ -1,68 +1,28 @@
+**Hantao Huang**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jerry-yin-a21314292/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JerryYin777)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-%230A4D92?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=7gsdLw4AAAAJ&hl=en#)
-[![知乎](https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-%231E2A2A?style=for-the-badge&logo=zhihu&logoColor=blue)](https://www.zhihu.com/people/ycr222/posts)
+- Phone: +86 13162605119
+- Email: [hhuang013@e.ntu.edu.sg](mailto:hhuang013@e.ntu.edu.sg)
+- Google Scholar: [Huang Hantao](https://scholar.google.com/)
 
+#### Personal Statement
 
-#### News
+I am the co-founder of startup company Metachip (current valuation: 10 million RMB). Before this, I worked as a Research Associate Professor at Southern University of Science and Technology (SUSTech), and previously held algorithm leadership roles at Canaan (Shanghai) and MediaTek (Singapore).
 
-* <strong style="color:red;"><strong>I’m actively looking for Machine Learning System and O1/MLLM/LLM Industrial/Research Opportunity.</strong></strong> <strong><strong>This includes</strong></strong> 
-    * Train more powerful reasoning models like [DeepSeek-R1](https://github.com/deepseek-ai/DeepSeek-R1) and [QwQ](https://huggingface.co/Qwen/QwQ-32B-Preview). 
-    * Improve RLHF training frameworks in the direction of reinforcement learning (such as [veRL](https://github.com/volcengine/verl) and [OpenRLHF](https://github.com/OpenRLHF/OpenRLHF)).
-    * Develop robust inference frameworks like [SGLang](https://github.com/sgl-project/sglang).
-
-If you need a reliable teammate who is familiar with <strong style="color:red;"><strong>both NLP and computer systems </strong></strong> with <strong style="color:red;"><strong>extensive industry experiences</strong></strong>, feel free to <a href="#contact-info">Contact Me</a>!
-
-
-#### Biography
-
-My name is Jerry Yin. I got my bachelor Degree in computer science with Distinction at University of Minnesota Twin Cities in December 2024, supervised by Prof. [Zirui Liu](https://zirui-ray-liu.github.io/) and [Jiayi Yuan](https://jy-yuan.github.io/) (Ph.D. Candidate). In the summer of 2023, I visited [TsinghuaNLP](https://github.com/thunlp) and conducted research under Prof. [Zhiyuan Liu](https://nlp.csai.tsinghua.edu.cn/~lzy/), where I received invaluable mentorship from [Weilin Zhao](https://brawny-college-5b2.notion.site/Weilin-Zhao-11d20b7deb8280388213d5f5ed072992) (Ph.D. Candidate) and [Xu Han](https://thucsthanxu13.github.io/) (Research Assistant Professor), for which I am deeply grateful.
-
-I have experience in NLP and computer systems(both architecture and high performance machine learning systems), along with extensive industry research internship experience. This includes:
-
-* Participating in the pretraining of the Yi-Lightning model at 01.AI.
-* Contributing to ML Infra of the pretraining of the foundation model at ModelBest (with TsinghuaNLP).
-* Participating in the finetuning of the CodeLLM [Raccoon](https://raccoon.sensetime.com/code) (Copilot-like) at SenseTime (with CUHK MMLab).
-
-#### Research Interests
-
-My current passion revolves around building **EFFICIENT** system solutions to AGI (<strong style="color:red;"><strong>Now I am interested in O1-like models ML Infra</strong></strong>), this includes:
-
-1. <strong><strong>Machine Learning System</strong></strong> 
-    * Training: Design more effective training system and algorithms, example includes [BMTrain](https://github.com/OpenBMB/BMTrain).
-    * Parameter Efficient Fine Tuning (PEFT): Improve LoRA-like architecture and low bit model compression. example includes [IAPT](https://aclanthology.org/2024.acl-long.771.pdf). 
-    * Long context inference: example includes [Cross Layer Attention](https://github.com/JerryYin777/Cross-Layer-Attention).
-2. <strong><strong>LLM & LLM applications</strong></strong> 
-    * CodeLLM
-    * Foundation LLM (Yi-lightning)
-    * RAG (GraphRAG): Examples includes [PaperHelper](https://github.com/JerryYin777/PaperHelper).
+My core expertise includes neural network hardware-software co-design, quantization algorithms, sparse algorithms, and FPGA implementation from algorithm to architecture. I authored the book *Compact and Fast Machine Learning Accelerator for IoT Devices*, published 40+ papers in top IEEE/ACM venues, and filed 4 US patents.
 
 #### Education
 
-🕒 **2023.12 - 2024.12**  
-📍 **University of Minnesota Twin Cities**  
-🎓 **B.A. in Computer Science with Distinction**
+- **Ph.D., Nanyang Technological University, Singapore** (2014.01 - 2018.05)  
+  Thesis: Compact and Fast Machine Learning Accelerator on IoT Devices.  
+  Advisors: Prof. Hao Yu, Prof. Goh Wang Ling.
+- **First-class Bachelor's Degree, Nanyang Technological University, Singapore** (2009.08 - 2013.07)  
+  PRC-Singapore Ministry of Education Scholarship (SM3).
+- **Visiting Scholar, Georgia Institute of Technology, USA** (2017.06 - 2017.12)  
+  Topic: 3D-IC AI Accelerator for Binary Neural Networks.  
+  Advisor: Prof. Sung-Kyu Lim.
 
----
+#### Current Focus
 
-🕒 **2021.9 - 2023.8** *(Transferred Out)*  
-📍 **Nanchang University**  
-🎓 **B.Eng. in Artificial Intelligence**
-
-
-#### Misc
-
-* Before transferring to the University of Minnesota, I studied at Nanchang University, majoring in Artificial Intelligence in a top-tier class with a School Academic Special Scholarship. I was the leader of Nanchang University Supercomputer Cluster Team ([NCUSCC](https://ncuscc.github.io/)) Leader, with experience of ASC22 and SC23(IndySCC). 
-
-* I am passionate about open source and firmly believe in its potential to disseminate knowledge widely, leverage technology to lead innovation to the world and contribute to the advancement of human society. I am proud to have garnered over **4k stars** and acquired over **370 followers** on [GitHub](https://github.com/JerryYin777). I occasionally share my explorations in the machine learning system and LLM field on [![知乎](https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-%231E2A2A?style=for-the-badge&logo=zhihu&logoColor=blue)](https://www.zhihu.com/people/ycr222/posts) in Mandarin.
-
-* I love league of legends and valorant games!
-
-#### Contact<p id="contact-info"></p>
-
-* </strong></strong>I am very enthusiastic about discussing academic issues or any interesting project-related topics! </strong></strong> If you'd like to engage in a discussion or collaborate, feel free to contact me via email at any time. 
-
-* If you're an undergraduate student feeling uncertain, especially from a diverse background, and hope to gain some learning experiences from me, I also warmly welcome that!
-
-* ✉️ [yin00486 [at] umn.edu](mailto:yin00486@umn.edu)
+- Efficient optimization and customization for large language models.
+- Mixed-precision quantization and sparse pruning for practical deployment.
+- AI accelerator architecture design for edge and datacenter scenarios.

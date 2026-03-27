@@ -1,11 +1,20 @@
-For full paper list (not now, but I'm sure there will be more great work in the future), please refer to my [Google Scholar](https://scholar.google.com/citations?user=7gsdLw4AAAAJ&hl=en).
+For a complete list, please refer to [Google Scholar](https://scholar.google.com/).
 
-- <strong><strong>*C. Yin</strong></strong>, E. Wei, Z. Zhang, Z. Zhan. (2025). PaperHelper: Knowledge-Based LLM QA Paper Reading Assistant. arXiv Preprint.*[[Paper]](https://arxiv.org/abs/2502.14271)
+#### Book
 
-- *Y. Zhao, <strong><strong>C. Yin</strong></strong>, X. Tian, Y. Ge. (2024). FanLoRA: Fantastic LoRAs and Where to Find Them in Large Language Model Fine-tuning. Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing <strong><strong>(EMNLP 2024)</strong></strong>.*[[Paper]](https://aclanthology.org/2024.emnlp-industry.38.pdf)
+- Hantao Huang, Hao Yu. *Compact and Fast Machine Learning Accelerator for IoT Devices*. Springer, 2019.
 
-- *W. Zhu, Y. Ni, <strong><strong>C. Yin</strong></strong>, A. Tian, X. Wang, G. Xie. (2024). IAPT: Instance-Aware Prompt Turing for Large Language Models. The 62nd Annual Meeting of the Association for Computational Linguistics <strong><strong>(ACL 2024)</strong></strong>.*[[Paper]](https://aclanthology.org/2024.acl-long.771.pdf)
+#### Selected Publications
 
-- *X. Gao, W. Zhu, J. Gao and <strong><strong>C. Yin</strong></strong>. (2023). F-PABEE: Flexible-Patience-Based Early Exiting For Single-Label and Multi-Label Text Classification Tasks. 2023 IEEE International Conference on Acoustics, Speech and Signal Processing <strong><strong>(ICASSP 2023)</strong></strong>.* [[Paper]](https://ieeexplore.ieee.org/abstract/document/10095864)
-
-- *<strong><strong>C. Yin</strong></strong>. (2023). Multi-scale and multi-task learning for human audio forensics based on convolutional networks. International Conference on Image, Signal Processing, and Pattern Recognition <strong><strong>(ISPP 2023)</strong></strong>.* [[Paper]](https://doi.org/10.1117/12.2681344)
+- Ziyi Guan*, Hantao Huang*, Yupeng Su, Hong Huang, Ngai Wong, Hao Yu.  
+  **APTQ: Attention-aware Post-Training Mixed-Precision Quantization for Large Language Models**, DAC 2024 (submitted).
+- Ziyi Guan, Boyu Li, Yuan Ren, Muqun Niu, Hantao Huang, Graziano Chesi, Hao Yu, Ngai Wong.  
+  **An Isotropic Shift-Pointwise Network for Crossbar-Efficient Neural Network Design**, DATE 2024.
+- Zikun Wei, Tingting Wang, Chenchen Ding, Bohan Wang, Ziyi Guan, Hantao Huang*, Hao Yu.  
+  **FMTT: Fused Multi-head Transformer with Tensor-compression for 3D Point Clouds Detection on Edge Devices**, DATE 2024.
+- Hantao Huang, Hao Yu.  
+  **Layer-Wise Training of Tensorized Neural Network**, IEEE TNNLS, 2018.
+- Hantao Huang, Leibin Ni, Hao Yu.  
+  **A Highly-parallel and Energy-efficient 3D Multi-layer CMOS-RRAM Accelerator for Tensorized Neural Network**, IEEE TNANO, 2017.
+- Hantao Huang, Yuehua Cai, Hang Xu, Hao Yu.  
+  **A Multi-agent Minority-game based Demand-response Management of Smart Buildings towards Peak Load Reduction**, IEEE TCAD, 2016.
