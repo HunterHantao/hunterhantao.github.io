@@ -1,8 +1,3 @@
-**Hantao Huang**
-
-- Email: [hhuang013@e.ntu.edu.sg](mailto:hhuang013@e.ntu.edu.sg)
-- Google Scholar: [Huang Hantao](https://scholar.google.com/citations?hl=en&user=CprxMJEAAAAJ&view_op=list_works&sortby=pubdate)
-
 #### Personal Statement
 
 I am a **Heterogeneous Computing Engineer** at **ByteDance**, focusing on large-scale machine learning systems that span software stacks and heterogeneous hardware. Earlier, I co-founded Metachip, served as a Research Associate Professor at Southern University of Science and Technology (SUSTech), and led algorithm teams at Canaan (Shanghai) and MediaTek (Singapore).
