@@ -1,12 +1,12 @@
 #### Contact
 
 - Email: [hhuang013@e.ntu.edu.sg](mailto:hhuang013@e.ntu.edu.sg)
-- Phone: +86 13162605119
 
 #### Expertise
 
 - Neural network hardware-software co-design
-- Post-training quantization and sparse pruning for LLMs
+- Post-training quantization, sparse attention, and KV-cache compression for LLMs
+- LLM inference characterization and accelerator-oriented benchmarking
 - FPGA/ASIC accelerator architecture
 - Edge AI and efficient model deployment
 
