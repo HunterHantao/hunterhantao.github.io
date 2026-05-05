@@ -26,10 +26,10 @@ For the full list, see [Google Scholar](https://scholar.google.com/citations?hl=
 
 #### Invited talks
 
-- **H Huang.** *AI Generation.* **2026年中国生成式AI大会**，**LLM 推理系统技术研讨会**，北京，**2026**. [**Slides (PDF)**](static/assets/docs/AI_gen_hht_v01.pdf) · [![Promotional poster](static/assets/img/AIGen_talks.jpg)](static/assets/docs/AI_gen_hht_v01.pdf)
-
 - **Waimon Wong, H Huang.** *Enabling Edge AI.* **NTU–MediaTek IC Design Workshop**, Singapore, **2019**.
 
 - **H Huang.** *Make a Power-efficient Voice UI on Edge Devices.* **Speech Signal Processing Workshop**, Taiwan, **2020**.
 
 - **H Huang.** *High-Efficiency Parallel In-Memory AI Chips for Large Models.* **Global AI Chip Summit (GACS)**, Shenzhen, **2023**.
+
+- **H Huang.** *AI Generation.* **2026年中国生成式AI大会**，**LLM 推理系统技术研讨会**，北京，**2026**. [**Slides (PDF)**](static/assets/docs/AI_gen_hht_v01.pdf) · [Poster · 宣传图](static/assets/img/AIGen_talks.jpg)
