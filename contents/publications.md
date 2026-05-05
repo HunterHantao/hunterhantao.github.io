@@ -20,7 +20,7 @@ For the **full, up-to-date list** and citation counts, see [Google Scholar](http
 
 #### Algorithms & hardware–software co-design
 
-- R Huang, Q Wang, **H Huang**, Y Gao, D Chen, S Wang, W Wang. *RepetitionCurse: Measuring and Understanding Router Imbalance in Mixture-of-Experts LLMs under DoS Stress.* **arXiv** 2512.23995, **2025**. [[arXiv]](https://arxiv.org/abs/2512.23995)
+- R Huang, Q Wang, **H Huang**, Y Gao, D Chen, S Wang, W Wang. *RepetitionCurse: Measuring and Understanding Router Imbalance in Mixture-of-Experts LLMs under DoS Stress.* **International Conference on Machine Learning (ICML)**, **2026**. [[arXiv]](https://arxiv.org/abs/2512.23995)
 
 - R Huang, H Zeng, **H Huang**, J Shi, M Yu, IEH Yen, S Wang. *SQ-format: A Unified Sparse-Quantized Hardware-friendly Data Format for LLMs.* **arXiv** 2512.05409, **2025**. [[arXiv]](https://arxiv.org/abs/2512.05409)
 
