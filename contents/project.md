@@ -6,7 +6,7 @@
 
 ##### ByteDance — Heterogeneous Computing Engineer
 
-- Working on heterogeneous computing for cloud-scale LLM training and inference, bridging algorithm design with system and accelerator constraints.
+- Working on AI hardware–software co-design for cloud-scale LLM inference and training, applying sparse algorithms and quantization to bridge algorithm design with system and accelerator constraints.
 
 ##### Metachip (Co-founder) / SUSTech (Research Associate Professor), Shenzhen
 

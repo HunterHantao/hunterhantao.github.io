@@ -1,18 +1,16 @@
 #### Personal Statement
 
-I am a **Heterogeneous Computing Engineer** at **ByteDance**, focusing on large-scale machine learning systems that span software stacks and heterogeneous hardware. Earlier, I co-founded Metachip, served as a Research Associate Professor at Southern University of Science and Technology (SUSTech), and led algorithm teams at Canaan (Shanghai) and MediaTek (Singapore).
+I am a **Heterogeneous Computing Engineer** at **ByteDance**, working on **AI hardware–software co-design** for **LLM inference** and **LLM training** at cloud scale—connecting sparse algorithms and quantization with production workloads and heterogeneous hardware. Earlier, I co-founded Metachip, served as a Research Associate Professor at Southern University of Science and Technology (SUSTech), and led algorithm teams at Canaan (Shanghai) and MediaTek (Singapore).
 
-My core expertise includes neural network hardware–software co-design, quantization and sparse methods for LLMs, and accelerator-friendly algorithms from research to deployment. I authored *Compact and Fast Machine Learning Accelerator for IoT Devices* (Springer), published 40+ papers in top IEEE/ACM venues, and hold multiple US patents.
+My core expertise includes sparse and quantized methods for LLM inference (sparse attention, KV-cache compression, post-training quantization) and training (sparsity-aware training, training stability), together with production inference characterization and accelerator-friendly co-design. I authored *Compact and Fast Machine Learning Accelerator for IoT Devices* (Springer), published 40+ papers in top IEEE/ACM venues, and hold multiple US patents.
 
 #### Recent highlights (2025–2026)
 
 A brief recap of our team’s recent academic highlights ([Google Scholar](https://scholar.google.com/citations?hl=en&user=CprxMJEAAAAJ&view_op=list_works&sortby=pubdate)):
 
-1. **Sparse attention & KV cache compression.** **SALS: Sparse Attention in Latent Space for KV Cache Compression** was published at **NeurIPS 2026** ([arXiv:2510.24273](https://arxiv.org/abs/2510.24273)). We are also advancing a continual-training-based sparse attention line: **Continual LLM Upcycling: A Predictor-Gated Bank-Wise Sparsity Training Recipe for Dense-to-Sparse LLMs** ([arXiv:2606.10722](https://arxiv.org/abs/2606.10722)).
+1. **LLM inference.** Sparse and quantized methods for serving: **SALS: Sparse Attention in Latent Space for KV Cache Compression** was published at **NeurIPS 2026** ([arXiv:2510.24273](https://arxiv.org/abs/2510.24273)). Our **HPCA 2026** paper, *Characterizing Cloud-Native LLM Inference at ByteDance and Exposing Optimization Challenges and Opportunities for Future AI Accelerators*, characterizes **production LLM inference** (scheduling, memory traffic, prefill/decode) and connects workload bottlenecks to **accelerator co-design**.
 
-2. **LLM systems, deployment, and accelerators.** Our **HPCA 2026** paper, *Characterizing Cloud-Native LLM Inference at ByteDance and Exposing Optimization Challenges and Opportunities for Future AI Accelerators*, characterizes **production LLM inference** (scheduling, memory traffic, prefill/decode) and connects that reality to **chip and accelerator design**—where bottlenecks come from workload mix, batching, and the software stack.
-
-3. **LLM training reliability.** **Mechanism-Driven Monitors for Preemptive Detection of LLM Training Instability** proposes monitors for early detection of training failures in large-scale LLM runs ([arXiv:2606.28116](https://arxiv.org/abs/2606.28116)).
+2. **LLM training.** Sparse and efficient training: **Continual LLM Upcycling: A Predictor-Gated Bank-Wise Sparsity Training Recipe for Dense-to-Sparse LLMs** ([arXiv:2606.10722](https://arxiv.org/abs/2606.10722)). **Mechanism-Driven Monitors for Preemptive Detection of LLM Training Instability** proposes monitors for early detection of training failures in large-scale LLM runs ([arXiv:2606.28116](https://arxiv.org/abs/2606.28116)).
 
 #### Education
 
