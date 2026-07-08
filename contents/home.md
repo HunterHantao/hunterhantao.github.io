@@ -6,11 +6,13 @@ My core expertise includes neural network hardware–software co-design, quantiz
 
 #### Recent highlights (2025–2026)
 
-A brief recap of our team’s recent academic highlights:
+A brief recap of our team’s recent academic highlights ([Google Scholar](https://scholar.google.com/citations?hl=en&user=CprxMJEAAAAJ&view_op=list_works&sortby=pubdate)):
 
-1. **Algorithm exploration.** Our post-training sparse attention method **SALS: Sparse Attention in Latent Space for KV Cache Compression** was accepted at **NeurIPS 2025** ([arXiv:2510.24273](https://arxiv.org/abs/2510.24273)). We are also advancing a continual-training-based sparse attention line of work.
+1. **Sparse attention & KV cache compression.** **SALS: Sparse Attention in Latent Space for KV Cache Compression** was published at **NeurIPS 2026** ([arXiv:2510.24273](https://arxiv.org/abs/2510.24273)). We are also advancing a continual-training-based sparse attention line: **Continual LLM Upcycling: A Predictor-Gated Bank-Wise Sparsity Training Recipe for Dense-to-Sparse LLMs** ([arXiv:2606.10722](https://arxiv.org/abs/2606.10722)).
 
 2. **LLM systems, deployment, and accelerators.** Our **HPCA 2026** paper, *Characterizing Cloud-Native LLM Inference at ByteDance and Exposing Optimization Challenges and Opportunities for Future AI Accelerators*, characterizes **production LLM inference** (scheduling, memory traffic, prefill/decode) and connects that reality to **chip and accelerator design**—where bottlenecks come from workload mix, batching, and the software stack.
+
+3. **LLM training reliability.** **Mechanism-Driven Monitors for Preemptive Detection of LLM Training Instability** proposes monitors for early detection of training failures in large-scale LLM runs ([arXiv:2606.28116](https://arxiv.org/abs/2606.28116)).
 
 #### Education
 

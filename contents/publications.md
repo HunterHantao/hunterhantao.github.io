@@ -24,7 +24,11 @@ For the **full, up-to-date list** and citation counts, see [Google Scholar](http
 
 - R Huang, H Zeng, **H Huang**, J Shi, M Yu, IEH Yen, S Wang. *SQ-format: A Unified Sparse-Quantized Hardware-friendly Data Format for LLMs.* **arXiv** 2512.05409, **2025**. [[arXiv]](https://arxiv.org/abs/2512.05409)
 
-- J Mu, **H Huang**, J Zhang, M Yu, T Wang, Y Li. *SALS: Sparse Attention in Latent Space for KV Cache Compression.* **Advances in Neural Information Processing Systems (NeurIPS)**, **2025**. [[arXiv]](https://arxiv.org/abs/2510.24273)
+- R Huang, J Shi, **H Huang**, Y Huang, Z Guan, H Zeng, IEH Yen, M Yu. *Continual LLM Upcycling: A Predictor-Gated Bank-Wise Sparsity Training Recipe for Dense-to-Sparse LLMs.* **arXiv** 2606.10722, **2026**. [[arXiv]](https://arxiv.org/abs/2606.10722)
+
+- R Huang, Y Wang, W Fang, **H Huang**, Y Huang, A You, Z Zhang, S Wang, et al. *Mechanism-Driven Monitors for Preemptive Detection of LLM Training Instability.* **arXiv** 2606.28116, **2026**. [[arXiv]](https://arxiv.org/abs/2606.28116)
+
+- J Mu, **H Huang**, J Zhang, M Yu, T Wang, Y Li. *SALS: Sparse Attention in Latent Space for KV Cache Compression.* **Advances in Neural Information Processing Systems (NeurIPS)**, **2026**. [[arXiv]](https://arxiv.org/abs/2510.24273)
 
 - H Wu, L Li, **H Huang**, T Yi, J Zhang, M Yu, J Yan. *HShare: Fast LLM Decoding by Hierarchical Key-Value Sharing.* **International Conference on Learning Representations (ICLR)**, **2025**.
 
